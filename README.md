@@ -1,7 +1,5 @@
 # Monitoring and Observability
 
-
-
 You've probably heard `Prometheus` and `Grafana` mentioned in a dozen places already, but what do they actually do? If you're not sure, don't worry, by the end of this guide, you'll have a clear, practical understanding of both, and you'll have set them up yourself.
 
 This isn't a wall of documentation. It's a hands-on guide, built around real, runnable examples, taking you from "what is a metric" all the way to auto-discovering and monitoring an entire fleet of servers.
